@@ -8,6 +8,8 @@ Remaining tasks:
   * Bugs
   * Exception handling
 
+___
+
 <p align="justify">A Flutter application that empowers students to effectively structure their notes and optimize their studying experience. The application offers a range of features designed to enhance note-taking and revision processes:</p>
 
 * Intuitive Note-Taking Interface: 
