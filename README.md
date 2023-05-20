@@ -1,5 +1,6 @@
 # ReVise
 
+<p align="justify">
 A Flutter application that empowers students to effectively structure their notes and optimize their studying experience. The application offers a range of features designed to enhance note-taking and revision processes:
 
 * Intuitive Note-Taking Interface: 
@@ -19,3 +20,4 @@ A Flutter application that empowers students to effectively structure their note
 
 * Firebase Database: 
   * The application utilizes Firebase to manage the database, facilitating seamless synchronization of notes and user data across devices. Firebase offers real-time data synchronization, ensuring that students can access their notes from any device and never lose their progress.
+</p>
