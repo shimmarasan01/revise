@@ -1,5 +1,13 @@
 # ReVise
 
+[Demo](https://www.youtube.com/watch?v=b_e31lw-K6o&ab_channel=Shimmarasan01)
+
+Status: Incomplete
+Remaining tasks: 
+  * Store/retrieve workspaces in/from Firebase
+  * UI/UX
+  * Bugs
+  * Exception handling
 
 <p align="justify">A Flutter application that empowers students to effectively structure their notes and optimize their studying experience. The application offers a range of features designed to enhance note-taking and revision processes:</p>
 
