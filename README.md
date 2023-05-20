@@ -25,7 +25,7 @@ ___
   * <p align="justify">The application incorporates audio, video, and YouTube content conversion to text. Students can upload or link multimedia files, and the application transcribes the content into textual format, making it easier to integrate with their notes and revise effectively.</p>
 
 * HuggingFace Spaces Integration: 
-  * <p align="justify">The NLP model and other Python functions, responsible for generating questions and performing other language processing tasks, are hosted within HuggingFace Spaces. This explains the speed of the question generation and multimedia conversion processes as HuggingFace Spaces (Free) only provides 2 CPUs with no GPU support.</p>
+  * <p align="justify">The NLP model and other Python functions, responsible for generating questions and performing other language processing tasks, are hosted within HuggingFace Spaces. This explains the speed of the question generation and multimedia conversion processes as HuggingFace Spaces (Free) only provides 2 vCPU with no GPU support.</p>
 
 * Firebase Database: 
   * <p align="justify">The application utilizes Firebase to manage the database, facilitating seamless synchronization of workspaces and user data across devices. Firebase offers real-time data synchronization, ensuring that students can access their workspaces from any device and never lose their progress.</p>
