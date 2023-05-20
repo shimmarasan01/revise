@@ -4,7 +4,7 @@
 Status: Incomplete<br><br>
 Remaining tasks: 
   * Store/retrieve workspaces in/from Firebase
-  * UI/UX
+  * UI/UX improvements
   * Bugs
   * Exception handling
 
