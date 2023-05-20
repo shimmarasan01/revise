@@ -2,7 +2,7 @@
 
 [Demo](https://www.youtube.com/watch?v=b_e31lw-K6o&ab_channel=Shimmarasan01)
 
-Status: Incomplete
+Status: Incomplete<br>
 Remaining tasks: 
   * Store/retrieve workspaces in/from Firebase
   * UI/UX
