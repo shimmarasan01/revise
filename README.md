@@ -4,10 +4,8 @@
 A Flutter application that empowers students to effectively structure their notes and optimize their studying experience. The application offers a range of features designed to enhance note-taking and revision processes:
 </p>
 
-<p align="justify">
 * Intuitive Note-Taking Interface: 
-  * The application provides a streamlined interface for students to create workspaces and structure notes in 3 different categories (header, main point, and supporting points).
-</p>
+  * <p align="justify">The application provides a streamlined interface for students to create workspaces and structure notes in 3 different categories (header, main point, and supporting points).</p>
 
 * NLP-Generated Questions: 
   * Leveraging the power of NLP models, the application automatically generates questions from the notes. These questions prompt students to test their understanding and recall key information. By engaging in active recall, students reinforce their knowledge and identify areas that require further revision.
