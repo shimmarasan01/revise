@@ -16,7 +16,7 @@ ___
   * <p align="justify">The application provides a streamlined interface for students to create workspaces and structure notes in 3 different categories (header, main point, and supporting point).</p>
 
 * NLP-Generated Questions: 
-  * <p align="justify">Leveraging the power of NLP models, the application automatically generates questions from the notes. These questions prompt students to test their understanding and recall key information. By engaging in active recall, students reinforce their knowledge and identify areas that require further revision.</p>
+  * <p align="justify">Leveraging the power of NLP models, the application automatically generates questions from the study notes. These questions prompt students to test their understanding and recall key information. By engaging in active recall, students reinforce their knowledge and identify areas that require further revision.</p>
 
 * Answer Validation: 
   * <p align="justify">When students attempt to answer the generated questions, the application checks the semantic similarity between their answer with the actual answer derived from the notes. This immediate feedback mechanism allows students to gauge their comprehension and identify areas for improvement.</p>
